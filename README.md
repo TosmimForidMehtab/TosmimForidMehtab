@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/a3/af/35/a3af356c5d57a46a1abdf37421ce3ac3.jpg)
 <h1 align="center">Hi 👋, I'm Tosmim Forid Mehtab</h1>
-<img align="right" alt="..." width="400" src="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">
+<img align="right" alt="..." width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosmim&label=Profile%20views&color=0e75b6&style=flat" alt="tosmim" /> </p>
 
