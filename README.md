@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Tosmim, a developing developer. I am currently<br>learning MERN Stack.
+Hey! I am Tosmim, a developing developer. I am currently learning MERN Stack.
 
 
 ## 🌐 Socials:
