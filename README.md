@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Tosmim, a MERN stack developer. I have understanding and knowlwdge of MERN stack and developed some projects.
+Hey! I am Tosmim, a MERN stack developer. I have understanding and knowlwdge of MERN stack and some other technologies and also developed some projects related to those.
 
 
 ## 🌐 Socials:
