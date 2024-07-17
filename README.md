@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Tosmim, a Full Stack developer. I have understanding and knowlwdge of Full Stack and some other technologies and also developed some projects related to those.
+Hey! I am Tosmim, a Full Stack developer. I have understanding and knowledge of Full Stack and some other technologies and also developed some projects related to those.
 
 
 ## 🌐 Socials:
