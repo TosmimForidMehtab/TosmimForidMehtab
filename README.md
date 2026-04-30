@@ -55,17 +55,6 @@ I care about **clean architecture**, **real-world performance wins**, and writin
 - 🐹 **Go** — Learning in progress, repos on GitHub
 
 ---
-
-## 📈 At Work (PearlThoughts, 2024–2026)
-
-A few things I'm proud of:
-- **9× faster S3 uploads** — dropped from 90s → <10s by switching SDK methods + compression
-- **Google Ads pipeline** — integrated Fivetran + custom APIs into BigQuery, serving 100+ brands, 300+ campaigns; solved edge cases including zero-value metrics and retaining Search Console data past its 16-month limit
-- **Lead gen system** — end-to-end: email notifications, admin dashboard, heatmaps, HubSpot/JotForm/FranConnect integrations
-- **Production observability** — Rollbar + real-time Slack alerts across APIs
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TosmimForidMehtab&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
