@@ -28,6 +28,7 @@ I care about **clean architecture**, **real-world performance wins**, and writin
 **Exploring & Side Projects**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-%23174F7B.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
@@ -37,24 +38,35 @@ I care about **clean architecture**, **real-world performance wins**, and writin
 
 ## 🔨 Things I've Actually Built
 
-**[Shawtyfied](https://github.com/TosmimForidMehtab)** — Production-grade URL shortener
+**[PrivacyBlur](https://github.com/TosmimForidMehtab/PriBlur)** — Chrome Extension · Vanilla JS / Canvas API
+- Most blur tools work on screenshots after the fact. This one works *during* screen capture — real-time canvas overlay on a live stream with zero post-editing
+- Solves a genuine browser API challenge: intercepting and redrawing a live screen stream mid-capture
+- Supports circles, rectangles, freehand shapes, and an eraser — all composited in real time
+ 
+**[Shawtyfied](https://github.com/TosmimForidMehtab/Shawtify)** — Production-grade URL shortener
 - Snowflake ID + Base62 for globally unique, coordination-free short codes
 - Redis rate limiting, Kafka async analytics, stateless JWT auth
 - Context-aware AI chat to query URL insights
 - Deployed as a PWA with React + Tailwind
 
-**[Devs Blog](https://github.com/TosmimForidMehtab)** — Full-stack MERN blog platform
+**[Conscious](https://github.com/TosmimForidMehtab/Conscious-API)** — Daily Journaling App · MERN
+- The core insight: the app gets out of the user's way — daily prompts arrive by email, and entries are submitted *directly from the email*, no login required for the actual journaling action
+- Google OAuth for onboarding, dashboard with full CRUD for reviewing past entries
+
+**[Devs Blog](https://github.com/TosmimForidMehtab/DevBlog)** — Full-stack MERN blog platform
 - Google OAuth + email-password auth, Redux Toolkit, dark/light themes
 
 **Side Projects & Experiments**
 
 - 🦀 **Telegram Media Downloader** *(Rust)* — CLI tool to download media from Telegram
 - 🐍 **File Organizer** *(Python)* — Automates file sorting by type/date
-- 🎮 **C++ Games** *(C++ / SDL2)* — Game projects built with SDL2
+- 🎮 **C++ Games/Visualizers** *(C++ / SDL2)* — Game projects built with SDL2
 - 🐍 **Django Projects** *(Python / Django)* — Backend web apps
+- ⚡ **FastAPI Backend** *(Python / FastAPI)* — REST API project
 - 🐹 **Go** — Learning in progress, repos on GitHub
 
 ---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TosmimForidMehtab&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
