@@ -76,7 +76,7 @@ I spent two years at PearlThoughts building the boring-but-critical stuff — da
 | Project | What makes it interesting |
 |---|---|
 | **[PrivacyBlur](https://github.com/TosmimForidMehtab/PriBlur)** <br/> `Chrome Extension · Canvas API` | Most blur tools edit screenshots *after* the fact. This one blurs **during live screen capture** — real-time canvas overlay on a live stream, with circles, rectangles, freehand & eraser composited on the fly. |
-| **[Shawtyfied](https://github.com/TosmimForidMehtab/Shawtify)** <br/> `URL Shortener · NestJS · Kafka · Redis` | Production-grade: Snowflake ID + Base62 for coordination-free short codes, Redis rate limiting, Kafka async analytics, stateless JWT — plus a context-aware AI chat to query URL insights. |
+| **[Shawtyfied](https://github.com/TosmimForidMehtab/Shawtify)** <br/> `URL Shortener · SpringBoot · Kafka · Redis` | Production-grade: Snowflake ID + Base62 for coordination-free short codes, Redis rate limiting, Kafka async analytics, stateless JWT — plus a context-aware AI chat to query URL insights. |
 | **[Conscious](https://github.com/TosmimForidMehtab/Conscious-API)** <br/> `Journaling App · MERN` | The app gets out of your way: daily prompts arrive by email and entries are submitted **directly from the email** — zero-login journaling, with an OAuth dashboard for reviewing past entries. |
 | **[Devs Blog](https://github.com/TosmimForidMehtab/DevBlog)** <br/> `Blog Platform · MERN` | Full-stack platform with Google OAuth + email auth, Redux Toolkit state, and dark/light theming. |
 
