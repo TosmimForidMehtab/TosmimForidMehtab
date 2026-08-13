@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Tosmim%20Forid%20Mehtab&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=52" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Tosmim%20Forid%20Mehtab&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Developer%20%C2%B7%20AI%20Agents%20%40%20Trinetra%20Labs&descSize=18&descAlignY=52" width="100%" alt="header"/>
 
 <a href="https://github.com/TosmimForidMehtab">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+ship+to+production;Tool-calling+%C2%B7+Orchestration+%C2%B7+LLM+pipelines;Backend+systems+that+scale+%E2%80%94+and+reason" alt="typing intro"/>
@@ -8,19 +8,11 @@
 
 </div>
 
-```jsonc
-// agent.invoke("get_developer_profile")
-{
-  "name": "Tosmim Forid Mehtab",
-  "role": "Backend Developer — Agentic Systems",
-  "since": "May 2026",
-  "previously": "~2 years shipping production backends @ PearlThoughts",
-  "focus": ["agent orchestration", "tool-calling pipelines", "distributed backends"],
-  "belief": "an agent is only as good as the systems it stands on"
-}
-```
+### 🤖 Backend Developer · AI Agents @ **Trinetra Labs** <sub>· since May 2026</sub>
 
-I spent two years building the boring-but-critical stuff — data pipelines, APIs, SEO infra, distributed backends. Now I build **agentic systems**: LLM-powered agents with real tools, real state, and real consequences. Turns out clean architecture matters even more when your caller is a language model.
+I spent two years at PearlThoughts building the boring-but-critical stuff — data pipelines, APIs, SEO infra, distributed backends. Now I build **AI agents**: LLM-powered systems with real tools, real state, and real consequences. Turns out clean architecture matters even more when your caller is a language model.
+
+> *An agent is only as good as the systems it stands on.*
 
 ## ⚡ How my day looks
 
@@ -33,8 +25,6 @@ flowchart LR
     E -- observations --> B
     B -- done --> F([✅ Result that actually works])
 ```
-
-*Yes, this diagram is rendered live by GitHub — no broken widget can take it down.*
 
 ## 🛠️ Tech Stack
 
@@ -106,8 +96,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TosmimForidMehtab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=TosmimForidMehtab&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TosmimForidMehtab&theme=tokyonight" width="94%" alt="profile summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TosmimForidMehtab&theme=tokyonight" height="180" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=TosmimForidMehtab&theme=tokyonight&hide_border=true" height="180" alt="streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TosmimForidMehtab&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="contribution graph"/>
 
