@@ -10,29 +10,29 @@
 
 ### 🤖 Backend Developer · AI Agents @ **Trinetra Labs** <sub>· since May 2026</sub>
 
-I spent two years at PearlThoughts building the boring-but-critical stuff — data pipelines, APIs, SEO infra, distributed backends. Now I build **AI agents**: LLM-powered systems with real tools, real state, and real consequences. Turns out clean architecture matters even more when your caller is a language model.
+I spent two years at PearlThoughts building the boring-but-critical stuff — data pipelines, APIs, SEO infra, distributed backends. Now I build **AI agents**: LLM-powered systems with real tools, real state, and real consequences — most recently, **scalable WhatsApp chatbots** running in production. Turns out clean architecture matters even more when your caller is a language model.
 
 > *An agent is only as good as the systems it stands on.*
 
 ## ⚡ How my day looks
 
-```mermaid
-flowchart LR
-    A([🧠 User Intent]) --> B{{🤖 Agent}}
-    B -- plan --> C[📋 Reason & Decompose]
-    C --> D[🛠️ Tool Calls]
-    D --> E[(APIs · DBs · Queues)]
-    E -- observations --> B
-    B -- done --> F([✅ Result that actually works])
-```
+<div align="center">
+<img src="./assets/agent-pipeline.svg" width="100%" alt="animated agent pipeline: Intent → Agent → Tools → Result, with observations looping back"/>
+
+<img src="./assets/agent-terminal.svg" width="100%" alt="animated terminal replaying an agent session"/>
+</div>
 
 ## 🛠️ Tech Stack
 
 **Agentic & AI**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat-square&logo=langgraph&logoColor=white)
 ![LLM Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
-![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![Agent Harness Engineering](https://img.shields.io/badge/Agent_Harness_Engineering-%238B5CF6.svg?style=flat-square)
+![Scalable WhatsApp Chatbots](https://img.shields.io/badge/Scalable_WhatsApp_Chatbots-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-%23FF7A00.svg?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 
 **Core (Production Experience)**
@@ -96,12 +96,19 @@ flowchart LR
 
 <div align="center">
 
+**🏠 Personal — [@TosmimForidMehtab](https://github.com/TosmimForidMehtab)**
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TosmimForidMehtab&theme=tokyonight" width="94%" alt="profile summary"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TosmimForidMehtab&theme=tokyonight" height="180" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com?user=TosmimForidMehtab&theme=tokyonight&hide_border=true" height="180" alt="streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TosmimForidMehtab&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="contribution graph"/>
+
+**💼 Work — [@tritosmim](https://github.com/tritosmim) · Trinetra Labs**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tritosmim&theme=tokyonight" height="180" alt="work GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=tritosmim&theme=tokyonight&hide_border=true" height="180" alt="work streak"/>
 
 </div>
 
